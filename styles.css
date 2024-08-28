@@ -1,0 +1,26 @@
+#TaskManagerPageBox{
+    width: 1000px;
+    height: auto;
+    overflow: hidden;
+    display: block;
+    margin: 120px auto;
+}
+
+#TaskManagerContentBox {
+    padding: 20px;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    display: block;
+    margin: auto;
+}
+
+#TaskListView {
+    margin-top: 50px;
+}
+
+.Atask {
+    padding: 30px;
+    border-radius: 18px;
+    margin: 20px auto;
+}
